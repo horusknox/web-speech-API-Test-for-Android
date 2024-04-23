@@ -1,8 +1,9 @@
-# Chrome Web Speech API
- Voice to Text with Google Chrome Web Speech API 
- 
- 
-## Live Demo
+This is from a dev, I am just testing this for my own purpose. I DID NOT WRITE THIS CODE.
+
+
+This site is currently live at:
+https://horusknox.github.io/web-speech-API-Test-for-Android/
+
 **[https://bensonruan.com/voice-to-text-with-chrome-web-speech-api/](https://bensonruan.com/voice-to-text-with-chrome-web-speech-api/)**
  
  
